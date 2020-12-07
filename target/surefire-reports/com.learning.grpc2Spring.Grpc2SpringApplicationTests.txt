@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.learning.grpc2Spring.Grpc2SpringApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.253 s - in com.learning.grpc2Spring.Grpc2SpringApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.303 s - in com.learning.grpc2Spring.Grpc2SpringApplicationTests
